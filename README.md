@@ -1,4 +1,4 @@
-D1 — Project title and one-line description
+
 
 # Personal Portfolio
 A responsive portfolio website showcasing my profile, skills, projects and professional links.
